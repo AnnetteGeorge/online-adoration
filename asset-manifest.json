@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/online-adoration/static/css/main.e6c13ad2.css",
+    "main.js": "/online-adoration/static/js/main.cf85fbbb.js",
+    "static/js/453.61534ad0.chunk.js": "/online-adoration/static/js/453.61534ad0.chunk.js",
+    "index.html": "/online-adoration/index.html",
+    "main.e6c13ad2.css.map": "/online-adoration/static/css/main.e6c13ad2.css.map",
+    "main.cf85fbbb.js.map": "/online-adoration/static/js/main.cf85fbbb.js.map",
+    "453.61534ad0.chunk.js.map": "/online-adoration/static/js/453.61534ad0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cf85fbbb.js"
+  ]
+}
