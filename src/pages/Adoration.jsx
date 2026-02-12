@@ -1,3 +1,4 @@
+import adorationImage from "../images/adoration.jpg";
 export default function Adoration() {
   return (
     <section className="min-h-screen flex items-center justify-center bg-black px-6">
@@ -6,8 +7,12 @@ export default function Adoration() {
           Live Eucharistic Adoration
         </h2>
 
-        <div className="w-full h-64 bg-black/40 border border-amber-600 rounded-lg flex items-center justify-center animate-pulse">
-          <span className="text-amber-400">Live Stream Placeholder</span>
+        <div className="w-full h-64 border border-amber-600 rounded-lg overflow-hidden">
+          <img
+            src={adorationImage}
+            alt="Live Eucharistic Adoration"
+            className="w-full h-full object-cover"
+          />
         </div>
 
         <p className="mt-8 italic text-amber-300">

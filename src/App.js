@@ -1,4 +1,3 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Home from "./pages/Home";
@@ -7,21 +6,25 @@ import PrayerRequest from "./pages/PrayerRequest";
 
 function App() {
   return (
-    <Router>
-      <div className="flex flex-col min-h-screen bg-black text-amber-100">
-        <Header />
+    <div className="bg-black text-amber-100 scroll-smooth">
+      <Header />
 
-        <main className="flex-grow">
-          <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/adoration" element={<Adoration />} />
-            <Route path="/prayer-request" element={<PrayerRequest />} />
-          </Routes>
-        </main>
+      <main className="pt-20">
+        <section id="home" className="min-h-screen">
+          <Home />
+        </section>
 
-        <Footer />
-      </div>
-    </Router>
+        <section id="adoration" className="min-h-screen">
+          <Adoration />
+        </section>
+
+        <section id="prayer-request" className="min-h-screen">
+          <PrayerRequest />
+        </section>
+      </main>
+
+      <Footer />
+    </div>
   );
 }
 
