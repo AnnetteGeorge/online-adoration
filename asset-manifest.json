@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/online-adoration/static/css/main.be79a13c.css",
-    "main.js": "/online-adoration/static/js/main.eaed8393.js",
+    "main.css": "/online-adoration/static/css/main.aa6e61b5.css",
+    "main.js": "/online-adoration/static/js/main.d3d2126f.js",
     "static/js/453.61534ad0.chunk.js": "/online-adoration/static/js/453.61534ad0.chunk.js",
+    "static/media/adoration.jpg": "/online-adoration/static/media/adoration.cd9105c0aa5e896032dd.jpg",
     "index.html": "/online-adoration/index.html",
-    "main.be79a13c.css.map": "/online-adoration/static/css/main.be79a13c.css.map",
-    "main.eaed8393.js.map": "/online-adoration/static/js/main.eaed8393.js.map",
+    "main.aa6e61b5.css.map": "/online-adoration/static/css/main.aa6e61b5.css.map",
+    "main.d3d2126f.js.map": "/online-adoration/static/js/main.d3d2126f.js.map",
     "453.61534ad0.chunk.js.map": "/online-adoration/static/js/453.61534ad0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be79a13c.css",
-    "static/js/main.eaed8393.js"
+    "static/css/main.aa6e61b5.css",
+    "static/js/main.d3d2126f.js"
   ]
 }
