@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/online-adoration/static/css/main.fa8b543f.css",
-    "main.js": "/online-adoration/static/js/main.0ec7648e.js",
+    "main.css": "/online-adoration/static/css/main.be79a13c.css",
+    "main.js": "/online-adoration/static/js/main.eaed8393.js",
     "static/js/453.61534ad0.chunk.js": "/online-adoration/static/js/453.61534ad0.chunk.js",
     "index.html": "/online-adoration/index.html",
-    "main.fa8b543f.css.map": "/online-adoration/static/css/main.fa8b543f.css.map",
-    "main.0ec7648e.js.map": "/online-adoration/static/js/main.0ec7648e.js.map",
+    "main.be79a13c.css.map": "/online-adoration/static/css/main.be79a13c.css.map",
+    "main.eaed8393.js.map": "/online-adoration/static/js/main.eaed8393.js.map",
     "453.61534ad0.chunk.js.map": "/online-adoration/static/js/453.61534ad0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa8b543f.css",
-    "static/js/main.0ec7648e.js"
+    "static/css/main.be79a13c.css",
+    "static/js/main.eaed8393.js"
   ]
 }
